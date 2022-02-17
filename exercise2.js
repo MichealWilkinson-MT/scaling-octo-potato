@@ -12,7 +12,7 @@
     const muliply = exampleFunc(2, 3)
 
     Exercise:
-    Create a function which takes a single argument and appends (concatenates) it to the string "Hello " and returns this
+    Create a function which takes a single argument and appends (concatenates) it to the string "Hello " and returns it
     https://masteringjs.io/tutorials/fundamentals/string-concat
 
     Call your function, get the result and console.log it out to your terminal
